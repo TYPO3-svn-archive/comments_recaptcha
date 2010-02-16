@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "comments_recaptcha".
 #
-# Auto generated 10-01-2010 20:19
+# Auto generated 30-12-2009 23:15
 #
 # Manual updates:
 # Only the data in the array - everything else is removed by next
@@ -21,7 +21,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'conflicts' => '',
 	'priority' => '',
 	'module' => '',
-	'state' => 'stable',
+	'state' => 'alpha',
 	'internal' => '',
 	'uploadfolder' => 0,
 	'createDirs' => '',
@@ -29,7 +29,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '1.0.0',
+	'version' => '1.0.1',
 	'constraints' => array(
 		'depends' => array(
 			'comments' => '',
@@ -40,9 +40,7 @@ $EM_CONF[$_EXTKEY] = array(
 		'suggests' => array(
 		),
 	),
-	'_md5_values_when_last_written' => 'a:6:{s:9:"ChangeLog";s:4:"1259";s:28:"class.ux_tx_comments_pi1.php";s:4:"5629";s:12:"ext_icon.gif";s:4:"2eee";s:17:"ext_localconf.php";s:4:"a797";s:19:"doc/wizard_form.dat";s:4:"807b";s:20:"doc/wizard_form.html";s:4:"696f";}',
-	'suggests' => array(
-	),
+	'_md5_values_when_last_written' => 'a:5:{s:9:"ChangeLog";s:4:"e0d2";s:10:"README.txt";s:4:"ee2d";s:12:"ext_icon.gif";s:4:"1bdc";s:19:"doc/wizard_form.dat";s:4:"807b";s:20:"doc/wizard_form.html";s:4:"696f";}',
 );
 
 ?>

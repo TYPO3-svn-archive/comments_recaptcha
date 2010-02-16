@@ -1,3 +1,7 @@
+10-02-13 Steffen Gebert  <steffen@steffen-gebert.de>
+
+	* using new CAPTCHA API (comments bug #13224)
+
 09-12-30 Steffen Gebert  <steffen@steffen-gebert.de>
 
 	* Initial release
